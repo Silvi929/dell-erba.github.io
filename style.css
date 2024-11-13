@@ -1,0 +1,64 @@
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  margin: 0px;
+  background-color: #eff6e0 ;
+}
+header{ 
+  background-color: #eff6e0;
+  color: #0a0a0a;
+  padding: 5px;
+  }
+  main{
+      background-color: #aec3b0;
+      color: #050505;
+      width: 400px;
+      margin: auto;
+      padding: 25px;
+  }
+  footer {
+      background-color: bisque;
+      color: #050505;
+      padding: 10px;
+  }
+  img{
+      width: 620px;
+      width: 100%;
+  }
+  div{
+      background-color: #a3b4a2;
+      margin-top: 10px;
+      padding: 10px;
+      border-bottom: 1px solid #9abd97;
+
+  }
+  .posteo{
+      background-color: #b6d7b9;
+      border-radius: 20px;
+  }
+  .anuncio{
+      background-color: #cffcff;
+      border-radius: 20px;
+  }
+  #foto-perfil{
+        border-radius: 50%;
+        width: 40%;
+        height: 40%;
+        display: block;
+        margin-right: 100%;
+    
+
+  }
+#nombre-usuario{
+  font-weight: bold;
+  font-family: Tangerine;
+border-bottom: 1px solid black;
+font-size: 20px;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+}
